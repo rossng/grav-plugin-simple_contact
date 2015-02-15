@@ -10,7 +10,7 @@ Installing the plugin can be done in one of two ways. Our GPM (Grav Package Mana
 
 The simplest way to install this plugin is via the [Grav Package Manager (GPM)](http://learn.getgrav.org/advanced/grav-gpm) through your system's Terminal (also called the command line).  From the root of your Grav install type:
 
-    bin/gpm install simplecontact
+    bin/gpm install simple_contact
 
 This will install the SimpleContact plugin into your `/user/plugins` directory within Grav. Its files can be found under `/your/site/grav/user/plugins/simplecontact`.
 
